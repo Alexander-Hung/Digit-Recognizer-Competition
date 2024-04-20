@@ -31,3 +31,7 @@
 
 ## Ranking
 ![score ranking](https://github.com/Alexander-Hung/ICS435-Project/blob/main/image/score.png?raw=true)
+
+## Rules:
+
+All rules from Digit Recognizer competition apply to this repo
