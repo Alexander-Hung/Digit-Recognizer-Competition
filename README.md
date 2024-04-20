@@ -1,6 +1,6 @@
-# ICS435-Project
+# Digit-Recognizer
 
-### Project base on Digit-Recognizer from Kaggle competition: https://www.kaggle.com/competitions/digit-recognizer
+### Project based on Digit-Recognizer from Kaggle competition: https://www.kaggle.com/competitions/digit-recognizer
 
 ## Requirement:
 
